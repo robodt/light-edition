@@ -19,7 +19,7 @@ Everything you'll need to get started with your own website is put in the 'site'
 
 ### Edit content
 
-In the site/content folder all content is located. Every page has it's own folder, with an optional numeric prefix to sort the navigation order (separated by a dot). The page's content is put in index.txt starting with some metadata:
+In the site/content folder all content is located. Every page has it's own folder, with an optional numeric prefix to sort the navigation order (separated by a dot). The page's content is put in index.txt starting with some optional metadata:
 
 - title: The title of the current page
 - navigation (optional): Navigation label
@@ -27,6 +27,8 @@ In the site/content folder all content is located. Every page has it's own folde
 - status (optional): Statuscode which can be 404 for an error page
 - hidden (optional): Set value 'true' to hide this page from the navigation
 - custom: It's also possible to put your own keys and values here, which will be available in the page template
+
+The metadata separated by '----' with some empty lines from the content itself.
 
 Note: Please don't remove site/content/404 which handles your 404 error page, needed when a page can not be found. Just edit the contents of site/content/404/index.txt to make it your own.
 
