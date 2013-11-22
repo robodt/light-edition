@@ -23,5 +23,9 @@
         "slim/slim": "2.*",
         "robodt/robodt": "0.1.*",
         "robodt/adapter-fw-slim": "0.1.*"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": { "": "site/src/" }
     }
 }
