@@ -4,12 +4,13 @@ date: 2013-11-23
 
 ----
 
----
-
 
 ## Work in progress
 
 As you've probably seen on the website Robodt is still in development. This is just an preview and documentation will be better in the future. Want to contribute? Feedback is appreciated, please visit our project at [Github](//github.com/robodt).
+
+
+---
 
 
 ### Robodt structure
