@@ -5,8 +5,8 @@ url:
 
 ----
 
-##Hello World!
+## Hello world!
 
-### Yes, your Robodt installation works!
+### Your Robodt installation works :)
 
-Don't know what to do next? [Getting Started](/getting-started).
+Don't know what to do next? [How to get started](/getting-started).
