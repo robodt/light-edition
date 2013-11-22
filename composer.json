@@ -1,7 +1,27 @@
 {
-	"require": {
-		"php": ">=5.3.15",
-		"pimple/pimple": "*",
-		"slim/slim": "*"
-	}
+    "name": "robodt/light-edition",
+    "type": "project",
+    "description": "Robodt Markdown CMS - Light Edition",
+    "keywords": ["cms", "markdown", "light"],
+    "homepage": "http://robodt.io",
+    "authors": [
+        {
+            "name": "Zomnium, Tim van Bergenhenegouwen",
+            "email": "tim@slurfhondje.nl",
+            "homepage": "http://zomnium.com",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/robodt/robodt-light-edition"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "slim/slim": "2.*",
+        "robodt/robodt": "0.1.*",
+        "robodt/adapter-fw-slim": "0.1.*"
+    }
 }
