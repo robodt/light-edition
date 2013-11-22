@@ -1,0 +1,30 @@
+{
+    "name": "robodt/light-edition",
+    "type": "project",
+    "description": "Robodt Markdown CMS - Light Edition",
+    "keywords": ["cms", "markdown", "file-based", "robodt", "light"],
+    "homepage": "http://robodt.io",
+    "authors": [
+        {
+            "name": "Zomnium, Tim van Bergenhenegouwen",
+            "email": "tim@slurfhondje.nl",
+            "homepage": "http://zomnium.com",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/robodt/robodt-light-edition"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "robodt/robodt": "0.1.*",
+        "robodt/adapter-fw-slim": "0.1.*"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": { "": "site/src/" }
+    }
+}

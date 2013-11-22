@@ -1,0 +1,12 @@
+
+title: Robodt
+navigation: Home
+url: 
+
+----
+
+## Hello world!
+
+### Your Robodt installation works :)
+
+Don't know what to do next? [How to get started](/getting-started).
