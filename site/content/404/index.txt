@@ -1,0 +1,8 @@
+
+title: Not found
+hidden: true
+status: 404
+
+----
+
+### This page can not be found, sorry!
