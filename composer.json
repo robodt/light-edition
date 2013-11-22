@@ -20,7 +20,6 @@
     ],
     "require": {
         "php": ">=5.3",
-        "slim/slim": "2.*",
         "robodt/robodt": "0.1.*",
         "robodt/adapter-fw-slim": "0.1.*"
     },
