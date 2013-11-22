@@ -2,7 +2,7 @@
     "name": "robodt/light-edition",
     "type": "project",
     "description": "Robodt Markdown CMS - Light Edition",
-    "keywords": ["cms", "markdown", "light"],
+    "keywords": ["cms", "markdown", "file-based", "robodt", "light"],
     "homepage": "http://robodt.io",
     "authors": [
         {
